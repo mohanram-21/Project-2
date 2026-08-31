@@ -2,5 +2,10 @@ print("Hi Ram!")
 
 print("Start development of module 1 / login page ")
 
+<<<<<<< HEAD
 print ("Started development of module 2 / dashboard page ")
 
+print("Main team update!")
+=======
+print("new login updated!")
+>>>>>>> fb0d330 (update login feature)
